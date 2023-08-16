@@ -1,0 +1,36 @@
+\NeedsTeXFormat{LaTeX2e}
+
+\ProvidesPackage{dfdocs}
+
+\relax
+
+% Set page dimensions and other appearence aspects.
+\usepackage[scale=0.8]{geometry}
+\usepackage{xcolor, hyperref, ifxetex}
+\usepackage[british]{babel}
+\hypersetup{colorlinks=true,allcolors=magenta}
+
+\usepackage{setspace}
+\usepackage{enumerate}
+
+% XeTeX font extensions.
+\ifxetex
+    \usepackage{fontspec}
+\fi
+
+% Disable intented paragraphs and add space between them instead.
+\setlength{\parskip}{10pt}
+\setlength{\parindent}{0pt}
+
+% Pretty and clickable links.
+\usepackage{hyperref}
+% Compact lists
+\usepackage{mdwlist}
+% Floats
+\usepackage{float}
+
+% Headers and footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\let\oldtitle\title
+\renewcommand{\sectionmark}[1]{\markboth{\thesection.\ #1}{}}

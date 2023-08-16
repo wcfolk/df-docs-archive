@@ -1,0 +1,119 @@
+## Eastern Thing
+- Attendence: Izzy, Hazel, Alex, Chris, Joel
+  - 5 People
+- Quarterly Reports
+  - Izzy (Laymember & GC Rep): After being elected to DF cttee and having my hand over from Oliver, I have been doing a fair amount. I have been doing my pastoral support role within cttee, trying my best to help people as and when they need it. I have also made sure the actions list is being updated and that members are doing their actions. Both Beth and I are trying to stay on top of this alternatively. I’ve also been doing lots of other woodcraft things, including my role as GC rep, which has expanded into becoming a member of the Lockerbrook Management Committee. I have trained as a warden for Lockerbrook. I help to advertise winter wonderland. I wrote the DF report to GC in February and we need to be better at this. I wasn’t sure what to write about and found it hard to contact others. I don’t believe this is the fault of individuals but of the committee as a whole, a report like this has not been sent to GC for 2 years (ish). Both LMC and GC met in February and May, all of which I attended. Wrote a better report to GC in May, it was well loved. I also attended AG, chairing part of the business. It was a lovely event with beautiful weather, though it would have been nice to see wider DF representation there. I want to set up a system that allows for cttee to effectively feedback to central as it would help in the future, especially if there is another Erasmus situation. Need to get better at actions reminders. I also feel that we should be better at supporting venture committee in the future, though I’m not sure how.
+  - Hazel (Training): Thought about running a mental health first aid workshop or adding one on to MEST UP. Haven’t managed to organise it in time for df camp (also I’m not going to much of df camp or any of vcamp) but this is something I will probably keep sorting out if I’m not on committee next year, hopefully to be able to run at WWL. Organised first aid training to happen just before df camp yay! The handover pack template is now complete and ready for any roles that don’t already have one to fill out. It’s shared in the handover pack section of the cttee drive. These need doing before Althing even if your role has a shadow role
+  - Chris (Affiliations):
+  - Joel (Secretary): I haven't been able to that much stuff with uni work but I have been doing stuff for AG and Eastern thing. I organised 3 DF delegates for AG and organised the agenda for Eastern Thing which wasn't very full, but that was largely because of the amount of people at the thing. I have been focusing a lot on V Camp as I'm running the radio and doing stuff for STEM and MEST-UP. I have been writing some motions for Al-Thing and have gotten my DBS checking account sorted. I still need to write a handover pack and organise the trans statement from DFs but this is going to happen around DF Camp.
+  - Alfie (Communications): I think I forgot to do my last quarterly report, so I’ll cover everything I’ve done since starting my role. I have:
+    - Maintained an active DF presence on Facebook, Instagram and Twitter
+    - Advertised events and training with various social media posts
+    - Created the new Committee email address, so all Committee members can be reached with one address
+    - Wrote some communication guidelines as a resource for Committee members
+    - Wrote some account security guidelines to help Committee members keep their spanthatworld accounts secure
+    - Developed a form for people to sign up to a new DF mailing list (yet to be shared)
+    - Looked into creating a WhatsApp broadcast list, which I decided not to use (I would need to send from my personal WhatsApp, or set up a new account which would need a different phone number)
+    - Literally a few days ago, Tom (web fairy) gained access to the website admin account through some technological trickery - this meant I could make a few small updates to the website:
+      - tweaks to the home page
+      - reorganised navigation bar
+      - new link to the About Us page
+      - new links to DF social media at the bottom of every page  
+    - I am planning to:
+      - Publish the form for the new DF mailing list
+      - Start sending news of events and opportunities to the mailing list
+      - Work with Tom to further improve the website, in particular I am hoping to:
+        - add a feed for the DF instagram on the home page
+        - revamp the calendar to show all upcoming national and local DF events
+        - add a directory of DF groups across the country, with a contact for each on
+        - seek suggestions from Committee and the wider movement about further changes
+  - Robin (Events): What I’ve done as Events Rep since Welsh Thing: Did Spring Awakening. Low attendance but financially successful Sorted team for DF Camp and started work - this is a continuous thing, and will continue until DF camp Made guide on how to handle wardens and am planning on making more guides when I think of them Suggested a new budget for the social events Now know more about new booking system, it should be rolled out for next spring awakening
+
+  - Tessa & Joe (Accessibility):
+    - This period has been quite exam heavy but we have managed to get a few things done.
+    - Events
+      - DF Camp
+        - Written up what there is of the welcome pack in HTML to go on the website.
+        - Almost finished the accessibility report for before the event to send out and post on Facebook
+        - Drafting a Hidden Disabilities and Accessibility workshop for DF Camp
+      - Eastern Thing
+        - Eeek nothing yet, oops
+    - Dictionary
+      - Created the Instagram Dictionary for people posting on Instagram to link too, because of its hatred of the external link.
+      - Managed to get the DF Dictionary sheet to output as a google docs table and as HTML in three forms, so...
+      - The DF Dictionary is now online!
+      - You can link terms by adding the term with no spaces and in lower case after the link for the dictionary page. For example [http://spanthatworld.com/dictionary#dfcamp].
+      - Haven’t yet worked out how to make the definitions appear on hovering over the respective link while on spanthatworld.com, but will be a project in when the website is more under our control.
+      - As far as we are aware, we have added links to the dictionary to all terms on the website that are in it.
+    - Other Projects
+      - Added a sheet to the What are DF Committee up to? spreadsheet called “all_actions” which is mainly to add actions formultiple people, but also to keep a record of all actions.
+      - Handover pack completed and on the df ctte drive
+      - Got Beth Irving to give me some of the materials for the climate change elfin/pioneer/venturer session she did a few months ago
+  - Absent Quarterly Reports
+    - Chair, Fundraising, Mest-Up, Treaserer team, Even Laymember, Districts, Safeguarding
+- DF Camp
+  - We've got a site
+  - Team:
+    - KP: Jacob & Emma, Admin: Theo, KE: Bilbo, Saz & Maz: Day Programme, Elsie: Evening Programme
+  - 40 people have booked
+    - lower than expected
+      - still fine cause cost is low & for per person per night
+  - Theme: Extinction
+  - DF Camp is going smooth
+    - Mest-Up training needs
+- Annual Gathering:
+  - DF Attendance: Alexi, Emma, Joel, Izzy, Robin, Ash, Elliot, Theo, and some young DF's who don't do national DF events (so we can't remember the names)
+  - Climate motion: 100% of power used sustainable and alternatives to gas cooking
+    - reduce power consumption not remove power consumption
+    - reducing food that needs cooking/ use fires to cook with.
+    - using local district's resources
+  - Badges
+    - We could do badges
+  - Accessibility pack for writing motions we can help GC with.
+  - Inclusivity workshop
+    - getting local DFs to talk to groups about it
+- Common Ground
+  - Reducing the length of DF Camp
+    - **Action: Chris submit motion for this**
+  - advertise local groups Fundraising
+    - contacting local districts for money
+  - Advertise Common Ground at events
+- Getting rid of a thing
+  - which thing:
+    - Winter Thing, Spring Thing, Summer Thing
+      - **Better Committee Communications**
+        - Scheduled Discord Meetings
+          - Once a month
+      - Open Discord Meeting to replace Summer Thing
+        - well scheduled agenda
+        - on a Sunday
+        - Spring Thing later?
+        - Rough Guide to Discord
+      - **Action Joel: set up discord**
+      - locations
+        - Reduce to: North, East, South, Wales, Scotland, Midlands
+- Venturer Camp/Committee
+  - Joint events with Venturer Committee
+    - Needs every DF to be DBS checked
+    - reduces cost
+    - increases participation from Venturers
+- With Venturers discussion
+  - They like joint events too
+  - How to get Venturers invovled more
+    - Social Media
+      - DFs going to districts directly to advertise the social medias
+      - Rough Guide to DF
+        - Go to Venturer Leaders
+        - Instagram, DF Website, e-mail, postcards,
+        - Putting important information e.g. Dates
+        - Printed info for districts to keep
+  - Facilitator
+    - advertise at DF Camp
+    - organised, enjoys V Committee, patient, proactive, respect venturers as people, encouraging, KP abilities, decent human being, flexible, very available.
+    - younger
+  - V Camp
+    - Centres not being open,
+  - What do you know about DFs
+    - people don't know
+      - Unless they have siblings
+End of discussion
